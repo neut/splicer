@@ -2,4 +2,4 @@
 
 # Splicer
 
-![Splicer mockup](https://raw.githubusercontent.com/neut/splicer/main/mockup.png)
+![Splicer mockup](https://raw.githubusercontent.com/neut/splicer/main/mockup.jpg)
